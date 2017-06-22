@@ -42,6 +42,7 @@
  3. [Enchant REST API][36]
  4. [Coinbase][37] API 设计的挺好的，包括官网提供的接口客户端，都是具有参考意义的
  5. [OpenNMS Wiki ReST API][38]
+ 6. [Spring MVC请求幂等](http://blog.csdn.net/dounine/article/details/71440485?utm_source=itdadao&utm_medium=referral)
 
 关于例子，实在是太多了，在有时间的时候，多观察别人的设计，有利于写出好的 API。
 
